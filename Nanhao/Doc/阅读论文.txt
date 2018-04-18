@@ -1,0 +1,4 @@
+One-shot/few-shot learning
+1. One-Shot Video Object Segmentation
+https://arxiv.org/abs/1611.05198
+2.
