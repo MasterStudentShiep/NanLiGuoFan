@@ -1,4 +1,75 @@
-One-shot/few-shot learning
-1. One-Shot Video Object Segmentation
+2018.04.1-20
+
+zero-shot/One-shot/few-shot learning
+1.Zero-shot Learning with Complementary Attributes
+https://arxiv.org/abs/1804.06505v1
+2.One-Shot Video Object Segmentation
 https://arxiv.org/abs/1611.05198
-2.
+3.Semantic Feature Augmentation in Few-shot Learning
+https://arxiv.org/abs/1804.05298v1
+4.A Large-scale Attribute Dataset for Zero-shot Learning
+https://arxiv.org/abs/1804.04314v1
+5.Zero-Shot Object Detection
+https://arxiv.org/abs/1804.04340v1
+6.Decoupled Novel Object Captioner
+https://arxiv.org/abs/1804.03803v1
+7.Few-Shot Text Classification with Pre-Trained Word Embeddings and a Human in the Loop
+https://arxiv.org/abs/1804.02063v1
+
+video analysis
+1.Superframes, A Temporal Video Segmentation
+https://arxiv.org/abs/1804.06642v1
+2.Optimizing Video Object Detection via a Scale-Time Lattice
+https://arxiv.org/abs/1804.05472v1
+3.Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning
+https://arxiv.org/abs/1804.05448v1
+4.Comparative study of motion detection methods for video surveillance systems
+https://arxiv.org/abs/1804.05459v1
+5.BodyNet: Volumetric Inference of 3D Human Body Shapes
+https://arxiv.org/abs/1804.04875v1
+6.MSnet: Mutual Suppression Network for Disentangled Video Representations
+https://arxiv.org/abs/1804.04810v1
+7.Precise Temporal Action Localization by Evolving Temporal Proposals
+https://arxiv.org/abs/1804.04803v1
+8.Stochastic Adversarial Video Prediction
+https://arxiv.org/abs/1804.01523v1
+9.End-to-End Learning of Motion Representation for Video Understanding
+https://arxiv.org/abs/1804.00413v1
+10.End-to-End Dense Video Captioning with Masked Transformer
+https://arxiv.org/abs/1804.00819v1
+11.Dynamic Video Segmentation Network
+https://arxiv.org/abs/1804.00931v1
+12.Reconstruction Network for Video Captioning
+https://arxiv.org/abs/1803.11438v1
+
+Crowd/Pedestrian
+1.Particle-based pedestrian path prediction using LSTM-MDL models
+https://arxiv.org/abs/1804.05546v1
+2.Temporal Unknown Incremental Clustering (TUIC) Model for Analysis of Traffic Surveillance Videos
+https://arxiv.org/abs/1804.06680v1
+3.Benchmark data and method for real-time people counting in cluttered scenes using depth sensors
+https://arxiv.org/abs/1804.04339v1
+4.Recurrent Neural Networks for Person Re-identification Revisited
+https://arxiv.org/abs/1804.03281v1
+5.A real-time and unsupervised face Re-Identification system for Human-Robot Interaction
+https://arxiv.org/abs/1804.03547v1
+6.End-to-End Detection and Re-identification Integrated Net for Person Search
+https://arxiv.org/abs/1804.00376v1
+7.Graph Correspondence Transfer for Person Re-identification
+https://arxiv.org/abs/1804.00242v1
+8.Human Semantic Parsing for Person Re-identification
+https://arxiv.org/abs/1804.00216v1
+
+Attention mechanism
+1.Learning Awareness Models
+https://arxiv.org/abs/1804.06318v1
+2.Attention-based Group Recommendation
+https://arxiv.org/abs/1804.04327v1
+3.Guess Where? Actor-Supervision for Spatiotemporal Action Localization
+https://arxiv.org/abs/1804.01824v1
+4.Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks
+https://arxiv.org/abs/1804.00823v2
+
+other
+1.Detail-Preserving Pooling in Deep Networks
+https://arxiv.org/abs/1804.04076v1
