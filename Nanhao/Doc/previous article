@@ -1,0 +1,53 @@
+zero\one\few-shot_learning
+CVPR2017
+1.Zero-Shot Action Recognition With Error-Correcting Output Codes
+2.One-Shot Metric Learning for Person Re-Identification
+3.Matrix Tri-Factorization With Manifold Regularizations for Zero-Shot Learning
+4.Semantically Consistent Regularization for Zero-Shot Recognition
+5.Learning a Deep Embedding Model for Zero-Shot Learning
+6.Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly
+7.Semantic Autoencoder for Zero-Shot Learning
+8.Zero-Shot Classification With Discriminative Semantic Representation Learnin
+9.Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths
+10.Zero Shot Learning via Multi-Scale Manifold Regularization
+11.Few-Shot Object Recognition From Machine-Labeled Web Images
+12.From Zero-Shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis
+13.Multi-Attention Network for One Shot Learning
+14.Gaze Embeddings for Zero-Shot Image Classification
+15.FastMask: Segment Multi-Scale Object Candidates in One Shot
+16.One-Shot Hyperspectral Imaging Using Faced Reflectors
+17.One-Shot Video Object Segmentation
+18.Low-Rank Embedded Ensemble Semantic Dictionary for Zero-Shot Learning
+
+CVPR2016
+1.Multi-Cue Zero-Shot Learning With Strong Supervision
+2.Latent Embeddings for Zero-Shot Classification
+3.One-Shot Learning of Scene Locations via Feature Trajectory Transfer
+4.Improving Person Re-Identification via Pose-Aware Multi-Shot Matching
+5.Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression
+6.Synthesized Classifiers for Zero-Shot Learning
+7.Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning
+8.Fast Zero-Shot Image Tagging
+9.Zero-Shot Learning via Joint Latent Similarity Embedding
+
+crowd counting
+1.Spatiotemporal Modeling for Crowd Counting in Videos 
+ICCV2017
+2.Crowd Counting Via Scale-adaptive Convolutional Nerual Network 
+https://arxiv.org/abs/1711.04433v2 
+3.Single-Image Crowd Counting via Multi-Column Convolutional Neural Network 
+CVPR2016 
+4.Mixture of Counting CNNs: Adaptive Integration of CNNs Specialized to Specific Appearance for Crowd Counting 
+https://arxiv.org/abs/1703.09393
+5.CrowdNet: A Deep Convolutional Network for Dense Crowd Counting 
+published in the proceedings of ACM Conference on Multimedia (ACMMM) - 2016 
+6.Multi-scale Convolutional Neural Networks for Crowd Counting
+https://arxiv.org/abs/1702.02359
+7.Cross-scene Crowd Counting via Deep Convolutional Neural Networks 
+CVPR2015
+8.Fully Convolutional Crowd Counting On Highly Congested Scenes 
+VISAPP 2017
+9.Switching Convolutional Neural Network(SCNN)for Crowd Counting. 
+CVPR2017
+10.CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting.
+AVSS 2017
