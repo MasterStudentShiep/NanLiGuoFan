@@ -12,8 +12,8 @@ CrowdNet: A Deep Convolutional Network for Dense Crowd Counting    --(CVPR)2015
 #caffe# https://github.com/davideverona/deep-crowd-counting_crowdnet
 
 Single-Image CrowdCounting via Multi-Column Convolutional Neural Network(MCNN)    --(CVPR)2016
-https://github.com/svishwa/crowdcount-mcnn
+#pytorch# https://github.com/svishwa/crowdcount-mcnn
 
 Switching Convolutional Neural Network for Crowd Counting(SCNN)    --(CVPR)2017
-https://github.com/val-iisc/crowd-counting-scnn
+#Lasagne\Theano# https://github.com/val-iisc/crowd-counting-scnn
 
