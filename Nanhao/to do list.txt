@@ -1,1 +1,2 @@
-
+make posters about NCIG 2018 with Li min
+give a simple talk and simple example about keras to new students at Friday.
