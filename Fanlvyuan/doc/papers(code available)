@@ -2,7 +2,7 @@
 Understanding Traffic Density from Large-Scale Web Camera Data     --(CVPR)2017
 
 Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction   --(AAAI)2017
-#keras#
+#keras# https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17
 
 2018/05/02
 WACV'18 paper - Crowd counting via scale-adaptive convolutional neural network (SaCNN)
