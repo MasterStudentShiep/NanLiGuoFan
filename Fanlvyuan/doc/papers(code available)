@@ -11,9 +11,9 @@ WACV'18 paper - Crowd counting via scale-adaptive convolutional neural network (
 CrowdNet: A Deep Convolutional Network for Dense Crowd Counting    --(CVPR)2015
 #caffe# https://github.com/davideverona/deep-crowd-counting_crowdnet
 
-Single-Image CrowdCounting via Multi-Column Convolutional Neural Network    --(CVPR)2016
+Single-Image CrowdCounting via Multi-Column Convolutional Neural Network(MCNN)    --(CVPR)2016
 https://github.com/svishwa/crowdcount-mcnn
 
-Switching Convolutional Neural Network for Crowd Counting    --(CVPR)2017
+Switching Convolutional Neural Network for Crowd Counting(SCNN)    --(CVPR)2017
 https://github.com/val-iisc/crowd-counting-scnn
 
