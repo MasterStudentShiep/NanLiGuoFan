@@ -1,1 +1,2 @@
 prepare poster for conference corprated with Nanhao 
+了解WGAN 最新進展，开始尝试WGAN-GP
