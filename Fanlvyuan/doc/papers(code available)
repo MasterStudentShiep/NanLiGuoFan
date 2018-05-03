@@ -8,7 +8,7 @@ Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction   --(
 WACV'18 paper - Crowd counting via scale-adaptive convolutional neural network (SaCNN)
 #caffe# https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu
 
-CrowdNet: A Deep Convolutional Network for Dense Crowd Counting    --(CVPR)2015
+CrowdNet: A Deep Convolutional Network for Dense Crowd Counting    --(CVPR)2016
 #caffe# https://github.com/davideverona/deep-crowd-counting_crowdnet
 
 Single-Image CrowdCounting via Multi-Column Convolutional Neural Network(MCNN)    --(CVPR)2016
@@ -20,6 +20,17 @@ CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimatio
 
 Switching Convolutional Neural Network for Crowd Counting(SCNN)    --(CVPR)2017
 #Lasagne\Theano# https://github.com/val-iisc/crowd-counting-scnn
+
+Image Crowd Counting Using Convolutional Neural Network and Markov Random Field
+#keras# https://github.com/hankong/crowd-counting
+
+2018/05/03
+code validation
+Single-Image CrowdCounting via Multi-Column Convolutional Neural Network(MCNN)    --(CVPR)2016
+#pytorch# https://github.com/svishwa/crowdcount-mcnn
+
+CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting    --(AVSS)2017
+#pytorch# https://github.com/svishwa/crowdcount-cascaded-mtl
 
 Image Crowd Counting Using Convolutional Neural Network and Markov Random Field
 #keras# https://github.com/hankong/crowd-counting
