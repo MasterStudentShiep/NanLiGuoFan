@@ -26,11 +26,9 @@ Image Crowd Counting Using Convolutional Neural Network and Markov Random Field
 
 2018/05/03
 code validation
-Single-Image CrowdCounting via Multi-Column Convolutional Neural Network(MCNN)    --(CVPR)2016
-#pytorch# https://github.com/svishwa/crowdcount-mcnn
-
-CNN-based Cascaded Multi-task Learning of High-level Prior and Density Estimation for Crowd Counting    --(AVSS)2017
-#pytorch# https://github.com/svishwa/crowdcount-cascaded-mtl
 
 Image Crowd Counting Using Convolutional Neural Network and Markov Random Field
 #keras# https://github.com/hankong/crowd-counting
+
+Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction   --(AAAI)2017
+#keras# https://github.com/lucktroy/DeepST/tree/master/scripts/papers/AAAI17
